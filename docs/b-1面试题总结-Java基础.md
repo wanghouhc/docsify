@@ -2,9 +2,7 @@
 
 # 二 Java基础+集合+多线程+JVM
 
-> 作者：Guide哥。
->
-> **介绍:** Github 70k Star 项目  **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**（公众号同名） 作者。每周都会在公众号更新一些自己原创干货。公众号后台回复“1”领取Java工程师必备学习资料+面试突击pdf。
+
 
 ## 2.1 Java基础
 
@@ -91,9 +89,7 @@ JRE 是 Java 运行时环境。它是运行已编译 Java 程序所需的所有�
 - Java 有自动内存管理机制，不需要程序员手动释放无用内存
 - **在 C 语言中，字符串或字符数组最后都会有一个额外的字符‘\0’来表示结束。但是，Java 语言中没有结束符这一概念。** 这是一个值得深度思考的问题，具体原因推荐看这篇文章： [https://blog.csdn.net/sszgg2006/article/details/49148189](https://blog.csdn.net/sszgg2006/article/details/49148189)
 
-> 作者：Guide哥。
->
-> **介绍:** Github 70k Star 项目  **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**（公众号同名） 作者。每周都会在公众号更新一些自己原创干货。公众号后台回复“1”领取Java工程师必备学习资料+面试突击pdf。
+
 
 ### 6. 什么是 Java 程序的主类 应用程序和小程序的主类有何不同?
 
@@ -492,11 +488,11 @@ Java Io 流共涉及 40 多个类，这些类看上去很杂乱，但实际上�
 
 ### 36. 常见关键字总结:static,final,this,super
 
-详见笔主的这篇文章:  https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/final,static,this,super.md
+详见这篇文章:  https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/final,static,this,super.md
 
 ### 37. Collections 工具类和 Arrays 工具类常见方法总结
 
-详见笔主的这篇文章:  [https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/Arrays,CollectionsCommonMethods.md](https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/Arrays,CollectionsCommonMethods.md)
+详见这篇文章:  [https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/Arrays,CollectionsCommonMethods.md](https://gitee.com/SnailClimb/JavaGuide/blob/master/docs/java/basic/Arrays,CollectionsCommonMethods.md)
 
 ### 38. 深拷贝 vs 浅拷贝
 
@@ -511,12 +507,5 @@ Java Io 流共涉及 40 多个类，这些类看上去很杂乱，但实际上�
 - https://www.educba.com/oracle-vs-openjdk/
 - https://stackoverflow.com/questions/22358071/differences-between-oracle-jdk-and-openjdk?answertab=active#tab-top
 
-### 公众号
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**《JavaGuide 面试突击版》 :** 由本文档衍生的专为面试而生的《JavaGuide 面试突击版》 版本[公众号](#公众号)后台回复 **"Java 面试突击"** 即可免费领取！
-
-**Java 工程师必备学习资源:** 一些 Java 工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。
-
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)

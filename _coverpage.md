@@ -5,7 +5,6 @@
 
 [常用资源](https://github.com/wanghouhc/JavaNote.git)
 [GitHub](https://github.com/wanghouhc/JavaGuide.git)
-[开始阅读](#JavaNote)
 
 
 
